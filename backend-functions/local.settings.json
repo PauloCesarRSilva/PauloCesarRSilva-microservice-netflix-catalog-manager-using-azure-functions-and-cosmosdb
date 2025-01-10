@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "COSMOS_HOST": "enter-your-cosmosdb-endpoint-here",
+    "COSMOS_KEY": "enter-your-cosmosdb-key-here",
+    "COSMOS_DATABASE": "DioFlix",
+    "COSMOS_CONTAINER": "Movies"
+  }
+}

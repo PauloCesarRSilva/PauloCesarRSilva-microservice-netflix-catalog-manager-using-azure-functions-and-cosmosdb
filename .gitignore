@@ -1,0 +1,139 @@
+/backend-functions/.venv/
+# Byte-compiled / optimized / DLL files
+/backend-functions/__pycache__/
+/backend-functions/*.py[cod]
+/backend-functions/*$py.class
+
+# C extensions
+/backend-functions/*.so
+
+# Distribution / packaging
+/backend-functions/.Python
+/backend-functions/build/
+/backend-functions/develop-eggs/
+/backend-functions/dist/
+/backend-functions/downloads/
+/backend-functions/eggs/
+/backend-functions/.eggs/
+/backend-functions/lib/
+/backend-functions/lib64/
+/backend-functions/parts/
+/backend-functions/sdist/
+/backend-functions/var/
+/backend-functions/wheels/
+/backend-functions/pip-wheel-metadata/
+/backend-functions/share/python-wheels/
+/backend-functions/*.egg-info/
+/backend-functions/.installed.cfg
+/backend-functions/*.egg
+/backend-functions/MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+/backend-functions/*.manifest
+/backend-functions/*.spec
+
+# Installer logs
+/backend-functions/pip-log.txt
+/backend-functions/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+/backend-functions/htmlcov/
+/backend-functions/.tox/
+/backend-functions/.nox/
+/backend-functions/.coverage
+/backend-functions/.coverage.*
+/backend-functions/.cache
+/backend-functions/nosetests.xml
+/backend-functions/coverage.xml
+/backend-functions/*.cover
+/backend-functions/.hypothesis/
+/backend-functions/.pytest_cache/
+
+# Translations
+/backend-functions/*.mo
+/backend-functions/*.pot
+
+# Django stuff:
+/backend-functions/*.log
+/backend-functions/local_settings.py
+/backend-functions/db.sqlite3
+
+# Flask stuff:
+/backend-functions/instance/
+/backend-functions/.webassets-cache
+
+# Scrapy stuff:
+/backend-functions/.scrapy
+
+# Sphinx documentation
+/backend-functions/docs/_build/
+
+# PyBuilder
+/backend-functions/target/
+
+# Jupyter Notebook
+/backend-functions/.ipynb_checkpoints
+
+# IPython
+/backend-functions/profile_default/
+/backend-functions/ipython_config.py
+
+# pyenv
+/backend-functions/.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don’t work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# celery beat schedule file
+/backend-functions/celerybeat-schedule
+
+# SageMath parsed files
+/backend-functions/*.sage.py
+
+# Environments
+/backend-functions/.env
+/backend-functions/.venv
+/backend-functions/env/
+/backend-functions/venv/
+/backend-functions/ENV/
+/backend-functions/env.bak/
+/backend-functions/venv.bak/
+
+# Spyder project settings
+/backend-functions/.spyderproject
+/backend-functions/.spyproject
+
+# Rope project settings
+/backend-functions/.ropeproject
+
+# mkdocs documentation
+/backend-functions/site
+
+# mypy
+/backend-functions/.mypy_cache/
+/backend-functions/.dmypy.json
+/backend-functions/dmypy.json
+
+# Pyre type checker
+/backend-functions/.pyre/
+
+# Azure Functions artifacts
+/backend-functions/bin
+/backend-functions/obj
+/backend-functions/appsettings.json
+/backend-functions/local.settings.json
+
+# Azurite artifacts
+/backend-functions/__blobstorage__
+/backend-functions/__queuestorage__
+/backend-functions/__azurite_db*__.json
+/backend-functions/.python_packages
+/frontend-list-movies/*__pycache__*
+/frontend-list-movies/.venv/
+*.vscode* 
