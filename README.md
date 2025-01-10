@@ -58,7 +58,7 @@ streamlit run app.py
 ```
 
 ### Using the APIs
-The backend functions contains three APIs that you can use. Each method is documented with details on how to make requests and what parameters are required. You can find the documentation for each method in the `backend-functions` folder.
+The backend functions contains three APIs that you can use. Each method is documented with details on how to make requests and what parameters are required. You can find the documentation for each method in the `backend-functions/function_app.py` file.
 
 To make a request to an API, you can use tools like `curl`, Postman, or any HTTP client library in your preferred programming language. Below is an example using `curl`:
 
